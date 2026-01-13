@@ -34,7 +34,7 @@ The workflow of the project includes:
 The following visualizations were created to better understand the data and model performance:
 
 ### 🔹 Distribution of Final Grades
-![Final Grade Distribution](images/final_grade_distribution.png)
+![Final Grade Distribution](images/Actual_vs_Predicted_Grades.png)
 
 ### 🔹 Study Time vs Final Grade
 ![Study Time vs Final Grade](images/study_time_vs_final_grade.png)
@@ -43,7 +43,7 @@ The following visualizations were created to better understand the data and mode
 ![Feature Correlation Heatmap](images/feature_correlation_heatmap.png)
 
 ### 🔹 Actual vs Predicted Grades
-![Actual vs Predicted Grades](images/actual_vs_predicted_grades.png)
+![Actual vs Predicted Grades](images/Actual_vs_Predicted_Grades.png)
 
 ---
 
