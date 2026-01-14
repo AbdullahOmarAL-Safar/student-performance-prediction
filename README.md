@@ -74,13 +74,10 @@ The results indicate that previous academic performance (G1 and G2) is the stron
 ---
 
 ## 🛠️ Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Google Colab
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn,colab" />
+</p>
+
 
 ---
 
