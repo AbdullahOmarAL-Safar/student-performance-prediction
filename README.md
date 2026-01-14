@@ -75,8 +75,9 @@ The results indicate that previous academic performance (G1 and G2) is the stron
 
 ## 🛠️ Technologies Used
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn,colab" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn,googlecolab" />
 </p>
+
 
 
 ---
