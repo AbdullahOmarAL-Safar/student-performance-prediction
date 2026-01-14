@@ -74,15 +74,15 @@ The results indicate that previous academic performance (G1 and G2) is the stron
 ---
 
 ## 🛠️ Technologies Used
-<p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=seaborn&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=googlecolab&theme=dark" />
+<p style="display:flex; gap:12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48"/>
 </p>
+
 
 
 
